@@ -1,5 +1,5 @@
 
-
+<!doctype html>
 <body>
 	<table>
 		<caption>제주특별자치도 학교현황(2015.4.1 기준)</caption>
